@@ -1,5 +1,4 @@
-number = int(input('Please enter an integer'))
-
+number = 234
 def reverse(num):
 	temp = num
 	rev = 0
